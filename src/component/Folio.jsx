@@ -8,7 +8,7 @@ const AppPortFolio = () => {
                 <div className="container px-5 mx-auto">
                     {/* Centered heading */}
                     <h2 className="text-5xl font-extrabold text-center text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-300 drop-shadow-md transition duration-500 hover:scale-105 hover:drop-shadow-lg mb-10">
-                        yOur Portfolio
+                        yOur Portfolio i
                     </h2>
 
                     <div className="flex flex-wrap -m-4">
